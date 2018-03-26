@@ -1,0 +1,9 @@
+C:\Users\אמיר\Desktop\Homework_JB\X_O_Progect_1.2\X_O_Progect_1.2\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\אמיר\Desktop\Homework_JB\X_O_Progect_1.2\X_O_Progect_1.2\bin\TypeScriptHTMLApp1.dll
+C:\Users\אמיר\Desktop\Homework_JB\X_O_Progect_1.2\X_O_Progect_1.2\bin\TypeScriptHTMLApp1.pdb
+C:\Users\אמיר\Desktop\Homework_JB\X_O_Progect_1.2\X_O_Progect_1.2\obj\Debug\X_O_Progect_1.2.csproj.CoreCompileInputs.cache
+C:\Users\אמיר\Desktop\Homework_JB\X_O_Progect_1.2\X_O_Progect_1.2\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\אמיר\Desktop\Homework_JB\X_O_Progect_1.2\X_O_Progect_1.2\obj\Debug\TypeScriptHTMLApp1.pdb
+C:\Users\אמיר\Desktop\Homework_JB\X_O_Progect_1.2\X_O_Progect_1.2\obj\Debug\X_O_Progect_1.2.csprojResolveAssemblyReference.cache
+C:\Users\אמיר\Desktop\Homework_JB\‏‏X_O_Progect_1.3\X_O_Progect_1.2\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\אמיר\Desktop\Homework_JB\‏‏X_O_Progect_1.3\X_O_Progect_1.2\obj\Debug\TypeScriptHTMLApp1.pdb
