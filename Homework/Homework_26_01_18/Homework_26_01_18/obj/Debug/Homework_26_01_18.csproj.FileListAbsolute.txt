@@ -1,0 +1,7 @@
+C:\Users\אמיר\Desktop\Homework_26_01_18\Homework_26_01_18\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\אמיר\Desktop\Homework_26_01_18\Homework_26_01_18\bin\TypeScriptHTMLApp1.dll
+C:\Users\אמיר\Desktop\Homework_26_01_18\Homework_26_01_18\bin\TypeScriptHTMLApp1.pdb
+C:\Users\אמיר\Desktop\Homework_26_01_18\Homework_26_01_18\obj\Debug\Homework_26_01_18.csprojResolveAssemblyReference.cache
+C:\Users\אמיר\Desktop\Homework_26_01_18\Homework_26_01_18\obj\Debug\Homework_26_01_18.csproj.CoreCompileInputs.cache
+C:\Users\אמיר\Desktop\Homework_26_01_18\Homework_26_01_18\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\אמיר\Desktop\Homework_26_01_18\Homework_26_01_18\obj\Debug\TypeScriptHTMLApp1.pdb

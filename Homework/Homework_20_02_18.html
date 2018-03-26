@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+
+    <script>
+
+        function add() {
+
+            let sum;
+            let firstNumber = Number(document.getElementById("firstNumber").value);
+            let secondNumber = Number(document.getElementById("secondNumber").value);
+
+            if (firstNumber && secondNumber) {
+                sum = firstNumber + secondNumber;
+            }
+            else {
+                sum = "erorr";
+                
+            }
+
+            let result = document.getElementsByTagName("h1");
+            result[0].innerText = "result:" + sum;
+
+        }
+
+        function subtraction() {
+            let sum;
+            let firstNumber = Number(document.getElementById("firstNumber").value);
+            let secondNumber = Number(document.getElementById("secondNumber").value);
+
+            if (firstNumber && secondNumber) {
+                sum = firstNumber - secondNumber;
+            }
+            else {
+                sum = "erorr";
+
+            }
+
+            let result = document.getElementsByTagName("h1");
+            result[0].innerText = "result:" + sum;
+
+        }
+
+        function multipli() {
+            let sum;
+            let firstNumber = Number(document.getElementById("firstNumber").value);
+            let secondNumber = Number(document.getElementById("secondNumber").value);
+
+            if (firstNumber && secondNumber) {
+                sum = firstNumber * secondNumber;
+            }
+            else {
+                sum = "erorr";
+
+            }
+
+            let result = document.getElementsByTagName("h1");
+            result[0].innerText = "result:" + sum;
+        }
+
+        function devide() {
+            let sum;
+            let firstNumber = Number(document.getElementById("firstNumber").value);
+            let secondNumber = Number(document.getElementById("secondNumber").value);
+
+            if (firstNumber && secondNumber) {
+                sum = firstNumber / secondNumber;
+            }
+            else {
+                sum = "erorr";
+
+            }
+
+            let result = document.getElementsByTagName("h1");
+            result[0].innerText = "result:" + sum;
+        }
+
+        
+        
+    </script>
+
+</head>
+<body>
+
+    <label>first number</label>
+    <input type="text" id="firstNumber" />
+
+    <label>second number</label>
+    <input type="text" id="secondNumber" />
+    <br />
+    <br />
+
+    <button onclick="add()">חיבור</button>
+    <button onclick="subtraction()">חיסור</button>
+    <button onclick="multipli()">כפל</button>
+    <button onclick="devide()">חילוק</button>
+    <br />
+    <br />
+
+    <h1>result:</h1>
+
+</body>
+</html>

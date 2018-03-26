@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script>
+
+
+        function background() {
+
+            var backgroundColor = document.getElementById("backgroundColor").value;
+            var backgroundColorTime = document.getElementById("backgroundColorTime").value;
+
+            if (backgroundColorTime <= 0) {
+                alert("מספר שגוי");
+            }
+            else {
+                document.bgColor = backgroundColor;
+                setTimeout(originalBackgroundColor, 1000 * backgroundColorTime)
+            }
+
+        }
+
+        function originalBackgroundColor() {
+
+            document.bgColor = "white";
+
+        }
+       
+
+    </script>
+</head>
+<body>
+    <input type="color" id="backgroundColor"/>
+    <input type="number" id="backgroundColorTime" />
+
+    <button onclick="background()">click me</button>
+</body>
+</html>
