@@ -1,0 +1,14 @@
+p{
+    background-color: darkorange;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    height: 10%;
+    color: rgb(161, 197, 99);
+    margin: auto;
+    width: 100%;
+    border: 3px solid darkolivegreen;
+    padding: 10px;
+    
+}
