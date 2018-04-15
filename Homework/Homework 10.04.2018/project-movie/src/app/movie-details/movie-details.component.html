@@ -1,0 +1,10 @@
+<div class="container">
+    <h1>Movie Details:</h1>
+  </div>
+
+<div *ngIf="showMovieSelectedDiteils" class="container">
+  <h2>{{showMovieSelectedDiteils.movieName}}</h2>
+  <div class="pull-left">Price: {{showMovieSelectedDiteils.price}}</div>
+  <br/>
+  <div class="pull-left">Date: {{showMovieSelectedDiteils.movieDate}}</div>
+</div>

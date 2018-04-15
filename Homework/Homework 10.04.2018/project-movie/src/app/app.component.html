@@ -1,0 +1,14 @@
+<div class="btn-group-vertical">
+
+    <app-movie-list 
+    [movies]="moviesArray"
+    (movieEmitter)="movieSelectedFunc($event)"
+    ></app-movie-list>
+
+</div>
+
+<div>
+    <app-movie-details
+    [showMovieSelectedDiteils]="showMovieDiteils"  
+    ></app-movie-details>
+</div>
