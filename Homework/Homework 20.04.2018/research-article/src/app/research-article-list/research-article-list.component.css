@@ -1,0 +1,29 @@
+
+  .main{
+      margin-top: 7%;
+      padding-left: 2%;
+  }
+
+  .button {
+    -webkit-box-flex: 1;
+    -webkit-flex: 1 1 auto;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    margin: 5px;
+    padding: 10px;
+    border: 2px solid #f7f7f7;
+    text-align: center;
+    text-transform: initial;
+    position: relative;
+    overflow: hidden;
+    -webkit-transition: .3s;
+    transition: .3s;
+    min-width: 200px;
+    
+
+  }
+
+
+
+
+
