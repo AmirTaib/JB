@@ -1,0 +1,13 @@
+
+<h1>
+    Welcome to Ajax Request!
+</h1>
+   
+   
+   <div *ngFor="let x of showPepole.data">
+        <p> first_name: {{x.first_name}}</p>
+        <p> last_name: {{x.last_name}}</p>
+        <p> full_name: {{x.first_name}}&nbsp;{{x.last_name}}</p>
+        
+        <img [src]="x.avatar" />
+    </div>
